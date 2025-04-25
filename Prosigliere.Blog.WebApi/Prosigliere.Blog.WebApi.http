@@ -1,0 +1,6 @@
+@Prosigliere.Blog.WebApi_HostAddress = http://localhost:5164
+
+GET {{Prosigliere.Blog.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
